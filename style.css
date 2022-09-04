@@ -37,7 +37,6 @@ body{
     transition-duration: 1s;
 }
 .hamburger{
-    opacity: 0%;
     width: 100%;
     text-align: center;
 }
