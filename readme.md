@@ -1,4 +1,4 @@
-This navbar is built in pure css, is tablet nad mobile responsive and can add extra functionality with JS.
+This navbar is built in pure css, is tablet and mobile responsive and can add extra functionality with JS.
 
 Demo available at [this link](http://nathanlittle.co.uk/pure-css-sidebar-nav/)
 
